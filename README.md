@@ -2,12 +2,15 @@
 
 
 Research Question:
+
 What socioeconomic and demographic factors impact income at a county level in the US?
 
 Reason this Topic was Selected:
 
 Resources:
+
 US Census 2019 data set
+
 FBI data for crime rate at county level 
  
 Dependent variable:
