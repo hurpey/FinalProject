@@ -13,12 +13,10 @@ US Census data set
 
 FBI data for crime rate at county level
  
-Dependent variable:
-1.       Income
-    a.       Income
-    b.       Income in quintiles
+####Dependent variable:
+1.       Income (Income, Income in quintiles)
 
-Independent variables
+####Independent variables
 
 Demographic:
 
