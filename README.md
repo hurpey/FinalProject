@@ -38,6 +38,8 @@ Socioeconomic:
 4.       Education level
    a.       Level of education
    b.       Field of study
-5.       Crime rate 
+
+Other factors we can consider 
+Crime rate 
 
 
