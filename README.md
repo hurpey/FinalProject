@@ -12,6 +12,7 @@ Rising economic inequality in the United States has been a topic of debate and c
 
 Using county level data mostly obtained from the USA Census Bureau, this analysis aims to answer the following questions:
 
+- Which social and demographic factor has the largest impact on household income at county level and country level?
 - Which county records the highest level of income and lowest level of income?
 - Which ethnicities are in the highest and lowest income quintiles?
 - Is there any increase in income level as educational attainment increases?
