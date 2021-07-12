@@ -9,7 +9,7 @@ Reason this Topic was Selected:
 
 Resources:
 
-US Census 2019 data set
+US Census data set
 
 FBI data for crime rate at county level 
  
