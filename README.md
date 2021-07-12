@@ -3,9 +3,11 @@
 
 ### Research Question:
 
-What socioeconomic and demographic factors impact income at a county level in the US?
+What socioeconomic and demographic factors impact income at a county level in the United States of America (USA)?
 
 ### Reason this Topic was Selected:
+
+Rising economic inequality in the United States has been an issue for the past few years. The objective of this analysis is to determine how various socioeconomic and demographic factors affect household income levels among counties in the USA. Factors considered include age, gender, ethnicity, employment status, occupation, education level, and household and living arrangements.
 
 ### Resources:
 
