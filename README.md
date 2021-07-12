@@ -25,8 +25,7 @@ Demographic:
 1.       Age
 2.       Gender
 3.       Race/ethnicity
-4.       Status: citizen, first generation migrant, second generation migrant, PR/newcomer, refugee
-5.       Religion
+
 
 Socioeconomic:
 
