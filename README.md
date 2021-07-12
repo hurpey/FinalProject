@@ -1,13 +1,21 @@
 # FinalProject
 
+**Selected Topic**
 
-### Research Question:
+The Influence of Social and Demographic factors on household income in the United States of America.
 
-What socioeconomic and demographic factors impact income at a county level in the US?
+**Reason this Topic was Selected**
 
-### Reason this Topic was Selected:
+Rising economic inequality in the United States has been a topic of debate and concern in recent times. The purpose of this analysis is to determine how various socioeconomic and demographic factors affect household income levels among counties in the USA. Factors considered include age, gender, ethnicity, employment status, occupation, education level, and household and living arrangements.
 
-Rising economic inequality in the United States has been an issue for the past few years. The objective of this analysis is to determine how various socioeconomic and demographic factors affect household income levels among counties in the USA. Factors considered include age, gender, ethnicity, employment status, occupation, education level, and household and living arrangements.
+**Questions to be answered with this analysis**
+Using mostly data obatined from the Census Bureau, this analysis aims to answer the following questions:
+
+- Which county records the highest level of income and lowest level of income?
+- Which ethnicities are in the highest and lowest income quintiles?
+- Is there any increase in income level as educational attainment increases?
+- Is there a variance in household income based on the age of the person who heads the household? 
+- Which gender earns the higher income based on county level and overall country level? 
 
 ### Resources:
 
