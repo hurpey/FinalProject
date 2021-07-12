@@ -1,17 +1,17 @@
 # FinalProject
 
 
-Research Question:
+### Research Question:
 
 What socioeconomic and demographic factors impact income at a county level in the US?
 
-Reason this Topic was Selected:
+### Reason this Topic was Selected:
 
-Resources:
+### Resources:
 
 US Census data set
 
-FBI data for crime rate at county level 
+FBI data for crime rate at county level
  
 Dependent variable:
 1.       Income
